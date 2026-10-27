@@ -1,0 +1,7 @@
+[1mdiff --git a/a.txt b/a.txt[m
+[1mindex ce01362..1ff9b08 100644[m
+[1m--- a/a.txt[m
+[1m+++ b/a.txt[m
+[36m@@ -1 +1,2 @@[m
+ hello[m
+[32m+[m[32msecond line[m[41m [m
